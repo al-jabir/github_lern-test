@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 40vh;
+}
+h5 {
+  font-size: 25px;
+}
+.header_main h1 {
+  font-size: 70px;
+  text-transform: uppercase;
+  font-family: normal;
+  color: purple;
+  font-weight: bold;
+}
+.text-light {
+  letter-spacing: 2px;
+}

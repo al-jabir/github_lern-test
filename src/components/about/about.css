@@ -1,0 +1,23 @@
+.main_about {
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about_img {
+  flex: 1 1 45%;
+}
+.about_text {
+  flex: 1 1 45%;
+}
+.about_text h3 {
+  text-align: center;
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin: 10% 0;
+}
+.tt {
+  font-family: cursive;
+  padding: 9px;
+}

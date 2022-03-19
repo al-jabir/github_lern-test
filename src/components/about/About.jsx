@@ -9,7 +9,7 @@ const About = () => {
       </div>
       <div className="about_text">
         <h3>Who Am I</h3>
-        <p className="tt">
+        <p className="text-sky-500 dark:text-sky-400">
           Hi! My name is AL JABIR. I am a Frontend junior web developer and I am
           enthusiastic of programming. I have more than 1+ years of experience
           in web design and web development. I am a Frontend web Developer with
